@@ -8,7 +8,8 @@ public class Runner {
         System.out.println("değişiklik 1 ");
 
 
-
+       // yeni kodlar ekledim
+        // versiyon 7
 
 
 
